@@ -1,0 +1,15 @@
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Client.exe.config
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Client.exe
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Client.pdb
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Data.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Models.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Newtonsoft.Json.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Data.pdb
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Models.pdb
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.pdb
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.xml
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\bin\Debug\Newtonsoft.Json.xml
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.exe
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\bin\Debug\Models.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\bin\Debug\Models.pdb
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.dll
+F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.pdb
