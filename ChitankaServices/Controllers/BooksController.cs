@@ -13,42 +13,7 @@ namespace ChitankaServices.Controllers
 {
     public class BooksController : ApiController
     {
-        //
-        // GET: /Books/
-        //public IEnumerable<string> GetAllByLetter(char letter)        
-        //{
-        //    //string rootUrl = "http://chitanka.info/books/alpha/" + letter;
-        //    //string responseHtml = await HttpRequester.Get<string>(rootUrl);
-        //    //HtmlDocument document = new HtmlDocument();
-        //    //document.LoadHtml(responseHtml);            
-            
-        //    //HtmlNode contentMenu = (from d in document.DocumentNode.Descendants()
-        //    //                        where d.Name == "dl" && d.Attributes["class"].Value == "menu buttonmenu"
-        //    //                        select d).First();
-
-        //    //IEnumerable<string> pagesUrlsList = from d in contentMenu.Descendants() 
-        //    //                                  where d.Name == "a"
-        //    //                                  select d.Attributes["href"].Value.ToString();
-
-        //    //pagesUrlsList = pagesUrlsList.ToList().Distinct();
-
-
-        //    //foreach (var url in pagesUrlsList)
-        //    //{
-        //    //    string currHtmlResponse = await HttpRequester.Get<string>(url);
-        //    //    HtmlDocument currDocument = new HtmlDocument();
-        //    //    currDocument.LoadHtml(currHtmlResponse);
-
-        //    //    HtmlNode booksUl = (from d in document.DocumentNode.Descendants()
-        //    //                        where d.Name == "ul" && d.Attributes["class"].Value == "superlist booklist"
-        //    //                        select d).First();
-                
-    
-        //    //}
-        //}
-
         
-
         [HttpGet]
         [ActionName("all")]
         public HttpResponseMessage GetBooksByLetter(string letter)

@@ -13,3 +13,6 @@ F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\Chi
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.exe
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Client\obj\Debug\Client.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Client.exe.config
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\obj\Debug\Client.exe
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\obj\Debug\Client.pdb
