@@ -79,7 +79,7 @@ namespace Data
                 {
                     InfoUrl = infoUrl,
                     ImageUrl = imageUrl,
-                    Tite = title,
+                    Title = title,
                     Author = author,
                     Category = genre,
                     EpubDownloadUrl = epubUrl,

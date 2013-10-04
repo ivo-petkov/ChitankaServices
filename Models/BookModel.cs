@@ -10,7 +10,7 @@ namespace Models
     {
         public string InfoUrl { get; set; }
 
-        public string Tite { get; set; }
+        public string Title { get; set; }
 
         public string Author { get; set; }
 

@@ -20,7 +20,7 @@ namespace Client
             //var books = BooksPersister.GetAllBooksByLetter("%D0%90");
             //foreach (var item in books)
             //{
-            //    Console.WriteLine(item.Tite);
+            //    Console.WriteLine(item.Title);
             //}
 
             var authors = AuthorsPersister.GetByLetterFirstName("%D0%90");
