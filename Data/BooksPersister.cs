@@ -34,13 +34,14 @@ namespace Data
                 }
             }
 
-           
-                string html = HttpRequester.GetHtml(pagesUrlsList[0]);
+            foreach (var pageUrl in pagesUrlsList)
+            {
+                string html = HttpRequester.GetHtml(pageUrl);
                 HtmlDocument pageHtml = new HtmlDocument();
                 pageHtml.LoadHtml(html);
 
                 allBooksList.AddRange(GetBooksList(pageHtml));                
-           
+            }
 
             return allBooksList;
         }
