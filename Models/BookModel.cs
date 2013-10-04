@@ -14,18 +14,13 @@ namespace Models
 
         public string Author { get; set; }
 
-        public string Collection { get; set; }
-
         public string Category { get; set; }
 
         public string ImageUrl { get; set; }
 
-        public string Fb2DownloadUrl { get; set; }
-
         public string EpubDownloadUrl { get; set; }
 
         public string TxtDownloadUrl { get; set; }
-
-        public string SfbDownloadUrl { get; set; }
+        
     }
 }

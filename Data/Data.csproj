@@ -45,7 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AuthorPersister.cs" />
+    <Compile Include="AuthorsPersister.cs" />
     <Compile Include="BooksPersister.cs" />
     <Compile Include="HttpRequester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -16,3 +16,15 @@ F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\Chi
 C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Client.exe.config
 C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\obj\Debug\Client.exe
 C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\obj\Debug\Client.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Client.exe
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Client.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Data.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Models.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Data.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Models.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

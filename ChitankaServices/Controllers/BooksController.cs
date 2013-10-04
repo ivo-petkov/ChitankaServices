@@ -13,12 +13,28 @@ namespace ChitankaServices.Controllers
 {
     public class BooksController : ApiController
     {
-        
+        // api/books/all?letter=
         [HttpGet]
         [ActionName("all")]
         public HttpResponseMessage GetBooksByLetter(string letter)
         {
             var books = BooksPersister.GetAllBooksByLetter(letter);
+            return Request.CreateResponse(HttpStatusCode.OK, books);
+        }
+
+        // api/books?url=
+        [HttpGet]
+        public HttpResponseMessage GetBookAnnotation(string url)
+        {
+            string annotation = BooksPersister.GetAnnotation(url);
+            return Request.CreateResponse(HttpStatusCode.OK, annotation);
+        }
+
+        // api/books?query=
+        [HttpGet]
+        public HttpResponseMessage GetSearchedBooks(string query)
+        {
+            var books = BooksPersister.GetSearchResults(query);
             return Request.CreateResponse(HttpStatusCode.OK, books);
         }
 

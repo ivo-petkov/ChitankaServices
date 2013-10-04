@@ -3,3 +3,8 @@ F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\Chi
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.dll
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\Models\obj\Debug\Models.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Models\bin\Debug\Models.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Models\bin\Debug\Models.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Models\obj\Debug\Models.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\Models\obj\Debug\Models.pdb

@@ -54,8 +54,8 @@ namespace Data
             foreach (var node in booksLiNodes)
             {
                 string rootUrl = "http://chitanka.info";
-                string infoUrl = "", imageUrl = "", title = "", author = "", sequence = "", 
-                genre = "", fb2Url = "", epubUrl = "", txtUrl = "", sfbUrl = "";
+                string infoUrl = "", imageUrl = "", title = "", author = "", 
+                genre = "", epubUrl = "", txtUrl = "";
                      
                 try
                 {
@@ -68,11 +68,8 @@ namespace Data
                     imageUrl = node.SelectSingleNode(".//img[@class='cover']").Attributes["src"].Value.ToString();
                     title = node.SelectSingleNode(".//i[@itemprop='name']").InnerText;
                     author = node.SelectSingleNode(".//a[@itemprop='name']").InnerText;
-                    sequence = node.SelectSingleNode(".//a[@rel='category']").InnerText;                        
-                    fb2Url = rootUrl + node.SelectSingleNode(".//a[@class='dl dl-fb2 action']").Attributes["href"].Value.ToString();
                     epubUrl = rootUrl + node.SelectSingleNode(".//a[@class='dl dl-epub action']").Attributes["href"].Value.ToString();
                     txtUrl = rootUrl + node.SelectSingleNode(".//a[@class='dl dl-txt action']").Attributes["href"].Value.ToString();
-                    sfbUrl = rootUrl + node.SelectSingleNode(".//a[@class='dl dl-sfb action']").Attributes["href"].Value.ToString();
                 }
                 catch (NullReferenceException e)
                 { 
@@ -84,12 +81,9 @@ namespace Data
                     ImageUrl = imageUrl,
                     Tite = title,
                     Author = author,
-                    Collection = sequence,
                     Category = genre,
-                    Fb2DownloadUrl = fb2Url,
                     EpubDownloadUrl = epubUrl,
-                    TxtDownloadUrl = txtUrl,
-                    SfbDownloadUrl = sfbUrl
+                    TxtDownloadUrl = txtUrl
                 };
 
                 books.Add(newBook);
@@ -115,7 +109,7 @@ namespace Data
             var annotationFieldset = document.DocumentNode.SelectSingleNode("//fieldset[@class='annotation']");
             if (annotationFieldset == null)
             {
-                return string.Empty;
+                return "Книгата няма налична анотация.";
             }
             
             var pNodesList = annotationFieldset.SelectNodes(".//p").ToList();
@@ -129,6 +123,17 @@ namespace Data
 
             string annotationStr = annotation.ToString();
             return annotationStr;
+        }
+
+        public static IEnumerable<BookModel> GetSearchResults(string searchQuery)
+        {
+            string url = "http://chitanka.info/search?q=" + searchQuery;
+            string responseHtml = HttpRequester.GetHtml(url);
+            HtmlDocument document = new HtmlDocument();
+            document.LoadHtml(responseHtml);
+            List<BookModel> booksList = new List<BookModel>();
+            booksList.AddRange(GetBooksList(document));
+            return booksList;
         }
     }
 }

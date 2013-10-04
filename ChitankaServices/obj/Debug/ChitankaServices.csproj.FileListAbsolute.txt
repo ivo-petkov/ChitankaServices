@@ -37,3 +37,42 @@ F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\Chi
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\ChitankaServices\bin\Models.pdb
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\ChitankaServices\bin\HtmlAgilityPack.pdb
 F:\Telerik\Desktop and Mobile\Win 8 Apps with XAML\Lectures\Project\Services\ChitankaServices\ChitankaServices\bin\HtmlAgilityPack.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\obj\Debug\ChitankaServices.csprojResolveAssemblyReference.cache
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\obj\Debug\ChitankaServices.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\ChitankaServices.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\ChitankaServices.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Antlr3.Runtime.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Data.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\EntityFramework.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Models.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Newtonsoft.Json.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Net.Http.Formatting.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Helpers.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Http.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Http.WebHost.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Mvc.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Optimization.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Providers.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Razor.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\WebGrease.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\HtmlAgilityPack.dll
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Data.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Models.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\EntityFramework.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\Newtonsoft.Json.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Net.Http.Formatting.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Helpers.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Http.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Http.WebHost.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Mvc.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.Razor.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\HtmlAgilityPack.pdb
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\bin\HtmlAgilityPack.xml
+C:\Users\ivopp_000\Documents\GitHub\ChitankaServices\ChitankaServices\obj\Debug\ChitankaServices.pdb

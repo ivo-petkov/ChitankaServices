@@ -16,12 +16,16 @@ namespace ChitankaServices
               );
 
             config.Routes.MapHttpRoute(
+                  name: "AuthorsApi",
+                  routeTemplate: "api/authors/{action}/{letter}",
+                  defaults: new { controller = "authors", letter = RouteParameter.Optional }
+              );
+
+            config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
-            );
-
-            
+            );            
         }
     }
 }
